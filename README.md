@@ -10,3 +10,7 @@
 [Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning](https://arxiv.org/pdf/2204.00117)
 
 [Robotic Cable Routing with Spatial Representation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732654)
+
+[Robots of the Lost Arc: Self-Supervised Learning to Dynamically Manipulate Fixed-Endpoint Cables](https://arxiv.org/pdf/2011.04840)
+
+[Planning and Control for Cable-routing with Dual-arm Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811765)
