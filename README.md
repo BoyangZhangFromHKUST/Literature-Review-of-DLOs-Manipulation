@@ -14,3 +14,13 @@
 [Robots of the Lost Arc: Self-Supervised Learning to Dynamically Manipulate Fixed-Endpoint Cables](https://arxiv.org/pdf/2011.04840)
 
 [Planning and Control for Cable-routing with Dual-arm Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811765)
+
+[Dual-arm robotic manipulation of flexible cables](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593780)
+
+[Self-Supervised Learning of State Estimation for Manipulating Deformable Linear Objects](https://arxiv.org/pdf/1911.06283)
+
+[Combining Self-Supervised Learning and Imitation for Vision-Based Rope Manipulation](https://arxiv.org/pdf/1703.02018)
+
+[Robotic Manipulation Planning for Shaping Deformable Linear Objects With Environmental Contacts](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8851170)
+
+[]()
