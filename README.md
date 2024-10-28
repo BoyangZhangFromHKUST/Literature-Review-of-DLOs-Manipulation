@@ -8,3 +8,5 @@
 [Cable Manipulation with a Tactile-Reactive Gripper](https://arxiv.org/pdf/1910.02860)
 
 [Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning](https://arxiv.org/pdf/2204.00117)
+
+[Robotic Cable Routing with Spatial Representation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732654)
