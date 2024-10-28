@@ -23,4 +23,13 @@
 
 [Robotic Manipulation Planning for Shaping Deformable Linear Objects With Environmental Contacts](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8851170)
 
-[]()
+[Offline-Online Learning of Deformation Model for Cable Manipulation with Graph Neural Networks](https://arxiv.org/pdf/2203.15004)
+
+[Deformable Linear Objects Manipulation With Online Model Parameters Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10412116)
+
+[RT-DLO: Real-Time Deformable Linear Objects Instance Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10045806)
+
+[Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9888782)
+
+[Deformable Linear Objects 3D Shape Estimation and
+Tracking From Multiple 2D Views](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10120758)
