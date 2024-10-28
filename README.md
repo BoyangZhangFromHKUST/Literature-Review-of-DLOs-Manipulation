@@ -6,3 +6,5 @@
 [Cable Routing and Assembly using Tactile-driven Motion Primitives](https://arxiv.org/pdf/2303.11765)
 
 [Cable Manipulation with a Tactile-Reactive Gripper](https://arxiv.org/pdf/1910.02860)
+
+[Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning](https://arxiv.org/pdf/2204.00117)
