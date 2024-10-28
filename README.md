@@ -43,6 +43,10 @@
 
 [Automatic Shape Control of Deformable Wires Based on Model-Free Visual Servoing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9133322)
 
+[Modeling, learning, perception, and control methods for deformable object manipulation](https://www.science.org/doi/epdf/10.1126/scirobotics.abd8803)
+
+[Vision-Based Robotic Grasping and Manipulation of USB Wires](https://ieeexplore.ieee.org/stampPDF/getPDF.jsptp=&arnumber=8460694&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50Lzg0NjA2OTQ=)
+
 
 
 
