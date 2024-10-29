@@ -49,9 +49,9 @@
 
 [SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation](https://arxiv.org/pdf/2011.07215)  [*Github*](https://github.com/Xingyu-Lin/softgym)
 
+[Dynamic Manipulation of a Deformable Linear Object: Simulation and Learning](https://arxiv.org/pdf/2310.00911)
 
+[Lattice-Based Shape Tracking and Servoing of Elastic Objects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10314001)
 
-
-
-
+[Learning Shape Control of Elastoplastic Deformable Linear Objects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561984)
 
