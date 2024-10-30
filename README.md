@@ -1,11 +1,4 @@
 # Paper
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 
 [Multi-Stage Cable Routing through Hierarchical Imitation Learning](https://arxiv.org/pdf/2307.08927)
 
@@ -53,7 +46,9 @@
 
 [Vision-Based Robotic Grasping and Manipulation of USB Wires](https://ieeexplore.ieee.org/stampPDF/getPDF.jsptp=&arnumber=8460694)
 
-[SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation](https://arxiv.org/pdf/2011.07215) ```diff - [*Github*](https://github.com/Xingyu-Lin/softgym) ```
+[SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation](https://arxiv.org/pdf/2011.07215)     
+
+<a href="https://github.com/Xingyu-Lin/softgym" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Github</a>
 
 [Dynamic Manipulation of a Deformable Linear Object: Simulation and Learning](https://arxiv.org/pdf/2310.00911)
 
