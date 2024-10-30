@@ -58,6 +58,10 @@
 
 [Tracking Partially-Occluded Deformable Objects while Enforcing Geometric Constraints](https://arxiv.org/pdf/2011.00627)
 
+[Modeling and Perception of Deformable One-Dimensional Objects](https://rll.berkeley.edu/surgical/icra11/icra_doo.pdf)
+
+[Differentiable Discrete Elastic Rods for Real-Time Modeling of Deformable Linear Objects](https://arxiv.org/pdf/2406.05931)
+
 # Video
 
 [RMDO 2024: Deformable Linear Objects Manipulation with Online Model Parameters Estimation](https://www.youtube.com/watch?v=zdcAsmtAI7w)
@@ -66,4 +70,14 @@
 
 [RMDO 2024: In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing](https://www.youtube.com/watch?v=Gi0S0wexTXM&t=1s)
 
+[RMDO 2024: Chelsea Finn - Learning Long-Horizon Bi-Manual Tasks involving Deformable Object Manipulation](https://www.youtube.com/watch?v=MAI-IJieiGU)
+
+[RMDO 2024: Real-time Contact State Estimation in Shape Control of Deformable Linear Objects under Small Environmental Contraints](https://www.youtube.com/watch?v=2vTB1VM4uB0)
+
+[RMDO 2024: David Hsu - Differentiable Particles for General-Purpose Deformable Object Manipulation](https://www.youtube.com/watch?v=zG7o-cgtCrs)
+
 [RMDO 2023: Learning to Estimate 3-D States of Deformable Linear Objects from Single-Frame Occluded Point Clouds](https://www.youtube.com/watch?v=6VeAIWxmipo)
+
+[RMDO 2023: A Coarse-to-Fine Framework for Dual-Arm Manipulation of Deformable Linear Objects with Whole-body Obstacle Avoidance](https://www.youtube.com/watch?v=_m1bVlXw6UI)
+
+[RSS 2021: Jeannette Bohg: Bridging Topology and Geometry in Deformable Object Manipulation](https://www.youtube.com/watch?v=OlCAs8oiN8o)
