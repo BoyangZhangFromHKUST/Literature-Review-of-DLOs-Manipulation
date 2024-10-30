@@ -55,3 +55,7 @@
 
 [Learning Shape Control of Elastoplastic Deformable Linear Objects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561984)
 
+[Adaptive Deformation Control for Elastic Linear Objects](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.868459/full)
+
+[Tracking Partially-Occluded Deformable Objects while Enforcing Geometric Constraints](https://arxiv.org/pdf/2011.00627)
+
