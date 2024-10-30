@@ -46,9 +46,7 @@
 
 [Vision-Based Robotic Grasping and Manipulation of USB Wires](https://ieeexplore.ieee.org/stampPDF/getPDF.jsptp=&arnumber=8460694)
 
-[SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation](https://arxiv.org/pdf/2011.07215)     
-
-<a href="https://github.com/Xingyu-Lin/softgym" style="color: orange; text-decoration: underline;text-decoration-style: dotted;">Github</a>
+[SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation](https://arxiv.org/pdf/2011.07215)     [*Github*](https://github.com/Xingyu-Lin/softgym)
 
 [Dynamic Manipulation of a Deformable Linear Object: Simulation and Learning](https://arxiv.org/pdf/2310.00911)
 
