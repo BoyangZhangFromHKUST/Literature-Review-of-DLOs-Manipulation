@@ -48,7 +48,7 @@
 
 [SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation](https://arxiv.org/pdf/2011.07215)     
 
-<a href="https://github.com/Xingyu-Lin/softgym" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Github</a>
+<a href="https://github.com/Xingyu-Lin/softgym" style="color: orange; text-decoration: underline;text-decoration-style: dotted;">Github</a>
 
 [Dynamic Manipulation of a Deformable Linear Object: Simulation and Learning](https://arxiv.org/pdf/2310.00911)
 
