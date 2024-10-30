@@ -1,3 +1,4 @@
+# Paper
 
 [Multi-Stage Cable Routing through Hierarchical Imitation Learning](https://arxiv.org/pdf/2307.08927)
 
@@ -57,3 +58,12 @@
 
 [Tracking Partially-Occluded Deformable Objects while Enforcing Geometric Constraints](https://arxiv.org/pdf/2011.00627)
 
+# Video
+
+[RMDO 2024: Deformable Linear Objects Manipulation with Online Model Parameters Estimation](https://www.youtube.com/watch?v=zdcAsmtAI7w)
+
+[RMDO 2024: Blind Manipulation of Deformable Linear Objects Based on Force Information from Environmental Contacts](https://www.youtube.com/watch?v=E4W9FRgtl5I)
+
+[RMDO 2024: In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing](https://www.youtube.com/watch?v=Gi0S0wexTXM&t=1s)
+
+[RMDO 2023: Learning to Estimate 3-D States of Deformable Linear Objects from Single-Frame Occluded Point Clouds](https://www.youtube.com/watch?v=6VeAIWxmipo)
