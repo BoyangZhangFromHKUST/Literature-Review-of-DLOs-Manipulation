@@ -62,6 +62,8 @@
 
 [Differentiable Discrete Elastic Rods for Real-Time Modeling of Deformable Linear Objects](https://arxiv.org/pdf/2406.05931)
 
+[An approach for the bimanual manipulation of a deformable linear object using a dual-arm industrial robot: cable routing use case](https://ieeexplore.ieee.org/document/9816981)
+
 # Video
 
 [RMDO 2024: Deformable Linear Objects Manipulation with Online Model Parameters Estimation](https://www.youtube.com/watch?v=zdcAsmtAI7w)
@@ -81,3 +83,5 @@
 [RMDO 2023: A Coarse-to-Fine Framework for Dual-Arm Manipulation of Deformable Linear Objects with Whole-body Obstacle Avoidance](https://www.youtube.com/watch?v=_m1bVlXw6UI)
 
 [RSS 2021: Jeannette Bohg: Bridging Topology and Geometry in Deformable Object Manipulation](https://www.youtube.com/watch?v=OlCAs8oiN8o)
+
+[IEEE ICPS22 Best Presentation Award: An approach for the bimanual manipulation of a deformable linear object using a dual-arm industrial robot: cable routing use case](https://www.youtube.com/watch?v=oE1t51900EA)
