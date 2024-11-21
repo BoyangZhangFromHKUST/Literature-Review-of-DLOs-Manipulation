@@ -90,6 +90,6 @@ tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.
 
 [IEEE ICPS22 Best Presentation Award: An approach for the bimanual manipulation of a deformable linear object using a dual-arm industrial robot: cable routing use case](https://www.youtube.com/watch?v=oE1t51900EA) [*Paper*](https://ieeexplore.ieee.org/document/9816981)
 
-# Survey or Magazine
+# Survey
 
 [Challenges and Outlook in Robotic Manipulation of Deformable Objects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721534)
