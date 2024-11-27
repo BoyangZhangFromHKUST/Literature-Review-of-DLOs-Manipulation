@@ -65,7 +65,7 @@
 [Robotic co-manipulation of deformable linear objects for large deformation
 tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.0-S0921889024000356/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIFKc5dVm8ixbI5Zc%2BMdbMt8uSHUFDCs%2FrMsVpU0NW9g0AiEAlV3w%2FT9o0oB9Eyu4WS5OQGPkhJPMYRpErQ9%2FMuRePVsqswUIIhAFGgwwNTkwMDM1NDY4NjUiDKIyEvBZn%2F5VaatTZiqQBQ7cympHX06D2N8WMgjhYzZO5pAUOhsupO%2B7pMygyQqq6OrSs6BMyxNQKUgrsXcVeIHCbnWctEyd9HwZ%2BKIKR3LfSW8Wp%2BkuDC9Cb8DuQKQs0WXut8OfNNlisOYRdHQhtJrJDJdTek8GzT26WuI0drxAxYPvdZG7z9tfnd7rBKjvhzHzrF96B5yKAa7%2B%2BLfq2bxT2T01KwO%2FiPlTbMuuutsXA%2FlwFVUqccvdFMTxXMGIl2p6Cjco7jn83K7fXcWxZDQp1cNuV5NX3jASKG%2BvghfAHrZbIMPF8ffY4UNy%2Bg2TPqmqN1FWhgGRGPN7MZZRdXwGE0y9EJ6AALt7%2BtY6oH%2BJpMmjV83iZcE%2Fi%2BibhNc0z9a1ZliicyTt7WYKRagB0WCpDifI1SuB6F41ciDbnPi6oPkFxbN1du9LmoopGEra6PEiBIPdoLY3WHf4hk9yv4DHTrckMIIWRJ9mYMLSl9jfPZyqvPGkR%2B1YXCrFlNxOoeOu5NQTCcDkHOefdqcYE4sLlTyoT89WHQw0vqiTBF9nnv8OmMuH%2BRjP5ss8lR0TJ6HnDJjibIs%2Fz8da00SH3aH9qSZgX7CAYc6n1xV0d%2F0Bov48XmOmXFYAT3ypWfyqZrsq9ImZOHyJ1OBalyIeqYGPW4s4j%2BZUbryV2QTaUUBOzScyIdeB78v1hoKfioAcZbA6LjLV26JjzPVrJ1ARBcgSe38uddNG3XGAGCwvrVWXaOV8D2yDSBZeZH3Ty6AzWfPrWHgw4V4WwjuDfrRq35EUxCAYGKtk4L5DC1XOIl7rNw2hNe8j0Wlpy1AUBr2C%2BFVZ7mWzBF0t8N4ZxOSCILA2miIzHWfW5kw4Snqx%2BE%2BypQPWXtlrrf8DjIDkaYESMIX5qrkGOrEB9MyTjOo49aR0Cd12b7eJehbmHQEQAqWTC7azbrVDjtx3BiB47G%2BVFA%2BNdmo6pshpzZB%2BR%2Bl3iPFlwWmUH8QSDKHIUh0bYZfgm82kFkf2QUSP07DEmtwuEnHovgctO%2FMORH9IaIFD2incsYv0n4kuFrIyPBXMYU9XUh6w8Y7YGS3GDAQpyQF6EJ1JMIWJs2TsUha0XcuSFAEtnePURmsJ7cVciO9u1mvmMqqJvWjop98T&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241106T010958Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTFI7GVDU%2F20241106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ae9595479059f10b171ddcdebf66a155319339207bd9e6c1558fcf26651b365e&hash=09746d6cb8b6f780af4b11cdfae7ef76cfdbfccdb3ee19fddabd1a30e07151f9&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0921889024000356&tid=spdf-0755c5c4-5ded-4ec8-bc33-84d8d2382b86&sid=6222942d2b2a1147673ba5366d0137c78a2cgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0e055807015452535852&rr=8de133805dfb1079&cc=hk&kca=eyJrZXkiOiJZdlA4VWNzV2VVMEFqa3FSV2J0N2RlRWdnQXZSSXcvM0w2bFlNdUtjUENReTZnRHJlZ1A0bkxxZ1E2RXo0MzRYSDgzdGVUVTZhYmlTdlpMcmphRkRpR0hZbko2b2F6bVVjNlRCMjlyVk9yZmlzRVREbHVuZjRpU3dKUkVZSXpvOVFsUFB2YmpzSEEvTVgyajd4Z1Z0SmwzcmtVV084VjN5LzgrWmpkNUVPNGZGQkRiVyIsIml2IjoiMzRjOWM2NjhjMDhjMGJiMWZmMjQ1MmQyOTk2ZmQ5YTQifQ==_1730855403106)
 
-
+[ISCUTE: INSTANCE SEGMENTATION OF CABLES USING TEXT EMBEDDING](https://arxiv.org/pdf/2402.11996)
 
 
 # Video
@@ -81,6 +81,8 @@ tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.
 [RMDO 2024: Real-time Contact State Estimation in Shape Control of Deformable Linear Objects under Small Environmental Contraints](https://www.youtube.com/watch?v=2vTB1VM4uB0)
 
 [RMDO 2024: David Hsu - Differentiable Particles for General-Purpose Deformable Object Manipulation](https://www.youtube.com/watch?v=zG7o-cgtCrs)
+
+[RMDO 2024: Wire Point Cloud Instance Segmentation from RGBD Imagery with Mask R-CNN](https://www.youtube.com/watch?v=eqgZQckCDOY)
 
 [RMDO 2023: Learning to Estimate 3-D States of Deformable Linear Objects from Single-Frame Occluded Point Clouds](https://www.youtube.com/watch?v=6VeAIWxmipo)
 
