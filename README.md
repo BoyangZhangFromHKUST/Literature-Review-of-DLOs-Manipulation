@@ -73,6 +73,12 @@ tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.
 
 [Ariadne+: Deep Learning–Based Augmented Framework for the Instance Segmentation of Wires](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721686)
 
+[DLO Perceiver: Grounding Large Language Model for Deformable Linear Objects Perception](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10742556)
+
+[Tracking Branched Deformable Linear Objects Using Particle Filtering on Depth Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711651)
+
+[Closed-Loop Shape Control of Deformable Linear Objects Based on Cosserat Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10654562)
+
 # Video
 
 [RMDO 2024: Deformable Linear Objects Manipulation with Online Model Parameters Estimation](https://www.youtube.com/watch?v=zdcAsmtAI7w)
