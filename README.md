@@ -79,6 +79,8 @@ tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.
 
 [Closed-Loop Shape Control of Deformable Linear Objects Based on Cosserat Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10654562)
 
+[Subgoal Diffuser: Coarse-to-fine Subgoal Generation to Guide Model Predictive Control for Robot Manipulation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610189)
+
 # Video
 
 [RMDO 2024: Deformable Linear Objects Manipulation with Online Model Parameters Estimation](https://www.youtube.com/watch?v=zdcAsmtAI7w)
