@@ -67,6 +67,11 @@ tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.
 
 [ISCUTE: INSTANCE SEGMENTATION OF CABLES USING TEXT EMBEDDING](https://arxiv.org/pdf/2402.11996)
 
+[FASTDLO: Fast Deformable Linear Objects Instance Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9830852)
+
+[Let’s take a Walk on Superpixels Graphs: Deformable Linear Objects Segmentation and Model Estimation](https://arxiv.org/pdf/1810.04461)
+
+[Ariadne+: Deep Learning–Based Augmented Framework for the Instance Segmentation of Wires](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721686)
 
 # Video
 
