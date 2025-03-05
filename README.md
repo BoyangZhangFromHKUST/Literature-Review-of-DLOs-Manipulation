@@ -85,6 +85,8 @@ tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.
 
 [DeRi-IGP: Learning to Manipulate Rigid Objects Using Deformable Linear Objects via Iterative Grasp-Pull](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10878300)
 
+[DeRi-Bot: Learning to Collaboratively Manipulate Rigid Objects via Deformable Objects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10225274)
+
 # Video
 
 [RMDO 2024: Deformable Linear Objects Manipulation with Online Model Parameters Estimation](https://www.youtube.com/watch?v=zdcAsmtAI7w)
