@@ -81,6 +81,10 @@ tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.
 
 [Subgoal Diffuser: Coarse-to-fine Subgoal Generation to Guide Model Predictive Control for Robot Manipulation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610189)
 
+03/05/2025 update:
+
+[DeRi-IGP: Learning to Manipulate Rigid Objects Using Deformable Linear Objects via Iterative Grasp-Pull](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10878300)
+
 # Video
 
 [RMDO 2024: Deformable Linear Objects Manipulation with Online Model Parameters Estimation](https://www.youtube.com/watch?v=zdcAsmtAI7w)
