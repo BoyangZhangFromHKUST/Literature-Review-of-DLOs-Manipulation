@@ -81,11 +81,15 @@ tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.
 
 [Subgoal Diffuser: Coarse-to-fine Subgoal Generation to Guide Model Predictive Control for Robot Manipulation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610189)
 
-03/05/2025 update:
+05/03/2025 update:
 
 [DeRi-IGP: Learning to Manipulate Rigid Objects Using Deformable Linear Objects via Iterative Grasp-Pull](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10878300)
 
 [DeRi-Bot: Learning to Collaboratively Manipulate Rigid Objects via Deformable Objects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10225274)
+
+07/03/2025 update:
+
+[Manipulation of Elasto-Flexible Cables with Single or Multiple UAVs](https://arxiv.org/pdf/2503.04304)
 
 # Video
 
