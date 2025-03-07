@@ -91,7 +91,8 @@ tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.
 
 [Manipulation of Elasto-Flexible Cables with Single or Multiple UAVs](https://arxiv.org/pdf/2503.04304)
 
-[Planning and Control for Deformable Linear Object Manipulation](https://arxiv.org/pdf/2503.04007)
+:star_struck:[Planning and Control for Deformable Linear Object Manipulation](https://arxiv.org/pdf/2503.04007)
+
 # Video
 
 [RMDO 2024: Deformable Linear Objects Manipulation with Online Model Parameters Estimation](https://www.youtube.com/watch?v=zdcAsmtAI7w)
