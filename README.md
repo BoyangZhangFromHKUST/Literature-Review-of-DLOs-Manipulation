@@ -93,6 +93,10 @@ tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.
 
 :star_struck:[Planning and Control for Deformable Linear Object Manipulation](https://arxiv.org/pdf/2503.04007)
 
+11/03/2025 update:
+
+[Non-Prehensile Object Transport by Nonholonomic Robots Connected by Linear Deformable Elements](https://49b3f50f-ac09-4f49-81ce-31a97c0fee51.usrfiles.com/ugd/49b3f5_8c29400046de47ea8a127f3204be71f5.pdf)
+
 # Video
 
 [RMDO 2024: Deformable Linear Objects Manipulation with Online Model Parameters Estimation](https://www.youtube.com/watch?v=zdcAsmtAI7w)
