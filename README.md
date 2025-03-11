@@ -105,6 +105,8 @@ tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.
 
 [Vision-based Manipulation of Deformable and Rigid Objects Using Subspace Projections of 2D Contours](https://www.romi-lab.org/_files/ugd/49b3f5_e4acab4a10ae4872af0fe48120d5fdb8.pdf)
 
+[Contour Moments Based Manipulation of Composite Rigid-Deformable Objects With Finite Time Model Estimation and Shape/Position Control](https://www.romi-lab.org/_files/ugd/49b3f5_6487759e94684ac7824ff9505a434e13.pdf)
+
 # Video
 
 [RMDO 2024: Deformable Linear Objects Manipulation with Online Model Parameters Estimation](https://www.youtube.com/watch?v=zdcAsmtAI7w)
