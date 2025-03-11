@@ -99,6 +99,12 @@ tasks](https://pdf.sciencedirectassets.com/271599/1-s2.0-S0921889024X00032/1-s2.
 
 [Action Planning for Packing Long Linear Elastic Objects into Compact Boxes with Bimanual Robotic Manipulation](https://arxiv.org/pdf/2110.11652)
 
+[Reactive Human-Robot Collaborative Manipulation of Deformable Linear Objects Using a New Topological Latent Control Model](https://www.romi-lab.org/_files/ugd/49b3f5_c3d489750d8e48acb51c3c008996f972.pdf)
+
+[Rearranging Deformable Linear Objects for Implicit Goals with Self-Supervised Planning and Control](https://49b3f50f-ac09-4f49-81ce-31a97c0fee51.usrfiles.com/ugd/49b3f5_3329f5d0c67d41f99d39ae61c3ee11f1.pdf)
+
+[Vision-based Manipulation of Deformable and Rigid Objects Using Subspace Projections of 2D Contours](https://www.romi-lab.org/_files/ugd/49b3f5_e4acab4a10ae4872af0fe48120d5fdb8.pdf)
+
 # Video
 
 [RMDO 2024: Deformable Linear Objects Manipulation with Online Model Parameters Estimation](https://www.youtube.com/watch?v=zdcAsmtAI7w)
